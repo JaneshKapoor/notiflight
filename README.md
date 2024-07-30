@@ -1,3 +1,46 @@
+# Flight Status and Notifications System
+# Overview
+This project aims to develop a robust system that provides real-time flight status updates and notifications to passengers. The system integrates with airport databases to ensure accurate information and utilizes various technologies for efficient data handling and user interaction.
+
+# Features
+- Real-time Updates
+  Display current flight status including delays, cancellations, and gate changes.
+  
+- Push Notifications
+  Send notifications for flight status changes via SMS, email, or app notifications using Kafka, RabbitMQ, etc.
+  
+- Integration with Airport Systems
+  Pull data from airport databases for accurate and timely information. Mock data is used for this implementation.
+
+# Technologies Used
+# Frontend
+- HTML
+- CSS
+- React.js
+
+# Backend
+- Python
+- Java
+
+# Database
+- MongoDB
+- PostgreSQL
+
+# Notifications
+- Firebase Cloud Messaging
+- Kafka
+- RabbitMQ
+
+# Installation and Setup
+Prerequisites:
+- Node.js
+- Python
+- Go
+- Java
+- MongoDB
+- PostgreSQL
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
